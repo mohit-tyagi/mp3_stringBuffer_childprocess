@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "application-name",
   "version": "0.0.1",
   "dependencies": {
@@ -9,4 +10,16 @@
       "pool_stream": "0.0.2",
       "player":"*"
   }
+=======
+    "name": "application-name",
+    "version": "0.0.1",
+    "dependencies": {
+        "lame": "1.1.0",
+        "async": "~0.7.0",
+        "speaker": "0.0.10",
+        "underscore": "~1.6.0",
+        "pool_stream": "0.0.2",
+        "player":"*"
+    }
+>>>>>>> 6a09eee2496a6582052262c72800023f57150b55
 }

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PlayMp3.iml" filepath="$PROJECT_DIR$/.idea/PlayMp3.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mp3StringBuffChildprocess.iml" filepath="$PROJECT_DIR$/.idea/Mp3StringBuffChildprocess.iml" />
+>>>>>>> 6a09eee2496a6582052262c72800023f57150b55
     </modules>
   </component>
 </project>
